@@ -20,3 +20,6 @@ poetry.lock
 tools/creds.data
 tools/gaction
 .vscode/
+
+google-assistant-grpc/
+google-assistant-sdk/
